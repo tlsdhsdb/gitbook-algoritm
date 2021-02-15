@@ -18,7 +18,6 @@
 * [프로그래머스 - 정렬](levelup/undefined-1.md)
 * [프로그래머스 - 해시](levelup/untitled.md)
 * [프로그래머스 - 완전탐색](levelup/undefined.md)
-* [프로그래머스 - 연습문제](levelup/untitled-1.md)
 
 ## 자료구조 <a id="undefined-2"></a>
 
