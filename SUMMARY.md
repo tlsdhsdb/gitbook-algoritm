@@ -2,12 +2,12 @@
 
 * [알고리즘 스터디 개요](README.md)
 
-## 코딩테스트 준비
+## 코딩테스트 준비 <a id="prepare"></a>
 
-* [개요](undefined/undefined.md)
-* [자료형](undefined/undefined-1.md)
-* [함수와 람다 표현식](undefined/undefined-2.md)
-* [실전에서 유용한 라이브러리](undefined/undefined-3.md)
+* [개요](prepare/undefined.md)
+* [자료형](prepare/undefined-1.md)
+* [함수와 람다 표현식](prepare/undefined-2.md)
+* [실전에서 유용한 라이브러리](prepare/undefined-3.md)
 
 ## 알고리즘 <a id="undefined-1"></a>
 
